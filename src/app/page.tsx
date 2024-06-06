@@ -25,7 +25,7 @@ export default function Home() {
   }, [getBlockNumber]);
   return (
     <main className="w-screen h-screen flex flex-col items-center justify-center">
-      <h1>VIEM DOCS</h1>
+      <h1>VIEM Example</h1>
     </main>
   );
 }
